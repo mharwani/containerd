@@ -32,7 +32,7 @@ import (
 )
 
 const (
-	maxLength  = 76
+	maxLength  = 100
 	alphanum   = `[A-Za-z0-9]+`
 	separators = `[._-]`
 )
